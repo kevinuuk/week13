@@ -1,0 +1,12 @@
+{
+  "fName": "Kevin",
+  "lName": "Uukkivi",
+  "age": 20,
+  "email": "kevin.uukkivi@tktk.ee",
+  "skills": ["HTML/CSS", "JavaScript", "Git"],
+  "languages": [
+    { "name": "Eesti keel", "level": "emakeel" },
+    { "name": "Inglise keel", "level": "B2" },
+    { "name": "Vene keel", "level": "A2" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "fName": "Jane",
+    "lName": "Doe",
+    "age": 25,
+    "skills": [
+      "HTML/CSS",
+      "JavaScript",
+      "Git"
+  ]
+}
